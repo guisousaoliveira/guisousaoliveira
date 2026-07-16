@@ -23,7 +23,7 @@
  
  <h3> Experiência Profissional</h3>
  
-💻 Analista de sistemas - Evo Systems, 10/2023 - atual <br>
+💻 Analista de Desenvolvimento de Sistemas Trainee I - Evo Systems, 10/2023 - atual <br>
 <hr>
  
 </div>
@@ -31,12 +31,12 @@
 <div align="center">
  
 ### Habilidades
-[![My Skills](https://skillicons.dev/icons?i=cs,angular,kotlin,react,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,flutter,react,cs,dotnet,firebase)](https://skillicons.dev)
  
 
 
 ###  Ferramentas 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,androidstudio,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,androidstudio,azure,sqlite,mysql)](https://skillicons.dev)
 </div>
 
  <hr>
@@ -46,9 +46,9 @@
  ### Informações sobre meu perfil do GitHub 
 
 <p align = "center">
-  <a href="https://github.com/GSolivier">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GSolivier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSolivier&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/guisousaoliveira">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guisousaoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisousaoliveira&layout=compact&langs_count=7&theme=dark"/>
 </p>
  
  <hr>
@@ -57,6 +57,7 @@
   ### Links Úteis
  
  <div>
+  <a href="https://guilhermesousaoliveira.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-sousa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:guilhermesousa1110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
