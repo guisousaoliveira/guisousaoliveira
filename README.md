@@ -23,7 +23,9 @@
  
  <h3> Experiência Profissional</h3>
  
-💻 Analista de Desenvolvimento de Sistemas Trainee I - Evo Systems, 10/2023 - atual <br>
+💻 Analista de Desenvolvimento de Sistemas Trainee I - Evo Systems, 03/2026 - atual <br>
+💻 Técnico em Desenvolvimento de Software - Evo Systems, 01/2025 - 03/2026 <br>
+💻 Estagiário - Evo Systems, 10/2023 - 12/2024 <br>
 <hr>
  
 </div>
@@ -43,17 +45,6 @@
  
  <div align="center">
 
- ### Informações sobre meu perfil do GitHub 
-
-<p align = "center">
-  <a href="https://github.com/guisousaoliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guisousaoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisousaoliveira&layout=compact&langs_count=7&theme=dark"/>
-</p>
- 
- <hr>
- 
- 
   ### Links Úteis
  
  <div>
